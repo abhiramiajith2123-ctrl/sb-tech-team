@@ -32,5 +32,5 @@ I have experience creating beginner web projects such as Calculator, To-Do-List 
 
 *LinkedIn*:https://www.linkedin.com/in/adithyan-s-88954b375
 
-I want to learn about Full Stack Development and building projects to develop my practical skills and gain real world experience.
+I want to learn about Full Stack Development and build projects to develop my practical skills and gain real world experience.
 I am also interested in learning Cybersecurity and Cloud Computing fundamentals.
