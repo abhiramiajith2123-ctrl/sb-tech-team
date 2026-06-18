@@ -20,8 +20,6 @@ BCA Second Year
 
 -HTML/CSS
 
--MYSQL
-
 **Experience**
 
 I have experience creating beginner web projects such as Calculator, To-Do-List etc..
