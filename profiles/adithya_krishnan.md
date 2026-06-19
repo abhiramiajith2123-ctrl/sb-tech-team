@@ -3,8 +3,13 @@
 BCA Second Year
 ## Interests
 - Frontend
+- AI/ML
+- Cybersecurity
 ## Skills
 - Python
+- HTML/CSS
+- SQL
+- Java
 ## Experience
 Side projects — built personal coding projects to explore web development and programming concepts.
 ## GitHub
